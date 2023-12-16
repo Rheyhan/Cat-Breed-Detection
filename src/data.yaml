@@ -1,0 +1,16 @@
+names:
+- Kucing-Persia
+- Kucing-Siam
+- Kucing-Sphynx
+- Kucing-kampung
+nc: 4
+roboflow:
+  license: Public Domain
+  project: cat-breed-classification
+  url: https://universe.roboflow.com/diffran-nur-cahyo-egmuz/cat-breed-classification/dataset/1
+  version: 1
+  workspace: diffran-nur-cahyo-egmuz
+path: 
+test: Cat-Breed-Classification-1/test/images
+train: Cat-Breed-Classification-1/train/images
+val: Cat-Breed-Classification-1/valid/images
